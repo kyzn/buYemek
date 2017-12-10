@@ -1,2 +1,2 @@
 # buYemek
-Parse PDF menu &amp; auto-tweet
+Parse PDF dining hall menus monthly &amp; auto-tweet daily
